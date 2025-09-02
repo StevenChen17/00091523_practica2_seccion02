@@ -29,7 +29,7 @@ h1+p {}
 h1,
 p {}
 
-.container{
+.container {
   display: flex;
   flex-direction: "column";
   flex-wrap: wrap;
@@ -40,10 +40,10 @@ p {}
   column-gap: 20px;
 }
 
-.item{
+.item {
   flex-grow: 1;
 }
 
-.item-2{
+.item-2 {
   flex-grow: 2;
 }
